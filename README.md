@@ -1,6 +1,5 @@
 # N8N w/OLLAMA
-
-### This project includes a docker compose file to run n8n with ollama locally in your machine using docker.
+This project includes a docker compose file to run n8n with ollama locally in your machine using docker.
 
 ## STEPS
 1. Install Docker and Docker Compose in your machine
